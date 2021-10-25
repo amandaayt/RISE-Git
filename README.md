@@ -23,7 +23,7 @@ I am __Amanda Tang__, a financial compliance professional of 2 years. I am curre
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
-[Others] (#others) <br>
+[Others](#others) <br>
 
 <!-- ABOUT Section Ends -->
 
