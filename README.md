@@ -29,22 +29,19 @@ I am __Amanda Tang__, a financial compliance professional of 2 years. I am curre
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### RHB BANK BERHAD
+BUSINESS RISK & COMPLIANCE EXECUTIVE <br>
+Dec-2019 to Apr-2021: 1 year 5 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
-
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+ROLE: KYC | CDD | EDD
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Murdoch University
+Bachelor of Commerce - Hospitality and Tourism Management & Business Law (Double Major)
 
 <!-- EDUCATION Section Ends -->
 
@@ -77,8 +74,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+
 
 ##### Achievements
-Star performer of the year at Accenture
+
 <!-- FEATURED Section Ends -->
